@@ -12,7 +12,7 @@ At first, it was a challenge to code the motors so that they would move at the '
 
 <img width="413" height="140" alt="Screenshot 2025-10-24 180147" src="https://github.com/user-attachments/assets/f06f15e8-43b3-4468-a1d3-8509d3dbbd02" />
 
-I commented on the code to make it more understandable, but what this essentially does is save the value of the signal as an unsigned long value called lastValue. Then, if the ensuing signal, 0x0, the signal that's sent when the button is held, is received, it makes the value equal to the lastValue stored, so button holds no longer stopped the motor. That is how the motors began to move like this controlled with the remote: 
+I commented on the code to make it more understandable, but what this essentially does is save the value of the signal as an unsigned long value called $${\color{yellow}lastValue}$$ . Then, if the ensuing signal, 0x0, the signal that's sent when the button is held, is received, it makes the value equal to the lastValue stored, so button holds no longer stopped the motor. That is how the motors began to move like this controlled with the remote: 
 
 
 
