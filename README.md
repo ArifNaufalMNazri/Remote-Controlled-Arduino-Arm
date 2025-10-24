@@ -1,4 +1,4 @@
-# Remote-Controlled-Arduino-Arm
+# $${\color{yellow}Remote-Controlled-Arduino-Arm}$$
 It sounds like your typical arduino project, and it is. However, after seeing how those arms are typically built, I decided to use a stepper motor and more servos than what I've seen. 
 I made the arm to have $${\color{yellow}4 degrees of freedom(DOF)}$$ to give it more freedom of movement, and although contructing took a few weeks of effort in between my final exams, seeing it come to life made me swell with relief and pride, even if the wires and hot glue and tape were a bit of a mess.
 
