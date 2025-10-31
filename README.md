@@ -66,7 +66,8 @@ After doing some research on Arduino arms around the internet, I realized I need
 </p>
 
 ### **Full code**
-Here's a link to the full code of the arm movement: 
+Here's a link to the full code of the arm movement: ![Remote-Controlled-Arduino-Arm]()
+
 
 ## **Final Product**
 I was proud of how well the final product turned out. Every motor did it's job. With that, I was happy to conclude this project and experiment with a video recording it. 
