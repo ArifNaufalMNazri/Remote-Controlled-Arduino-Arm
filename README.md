@@ -56,7 +56,7 @@ With this, I could finally control all the motors independently, of which I do n
 The first design had been built on an unstable, hot-glued popsicle stick base that also made me realize that I was over-straining the servo motors with all the weight they were carrying. Because of this, the first design fell apart. 
 
 <p align="center">
-![Screenshot_20251101_054812_Video Player](https://github.com/user-attachments/assets/0b7f2e77-374d-4bb7-a13d-aed436847774)
+<img width="433" height="397" alt="image" src="https://github.com/user-attachments/assets/0b5b9153-5d64-4d24-825f-928a1ec9a4d9" />
 </p>
 
 
