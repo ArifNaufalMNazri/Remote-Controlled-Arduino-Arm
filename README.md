@@ -50,7 +50,14 @@ The code for the *stepper motor* was:
 
 However, when I held the button down, the Arduino would continue to send that signal to the function, making the servo continue moving. To solve this, I added a limit to how many increments could happen before setting the the `lastRead` and `read` value to 0. I used an `int` named `plus` to limit the increments to **5**. 
 
-With this, I could finally control all the motors independently. Now, it was time for the structure of the build. 
+With this, I could finally control all the motors independently, of which I do not have a video of. Now, it was time for the structure of the build. 
+
+### **Arm Structure**
+The first design had been built on an unstable, hot-glued popsicle stick base that also made me realize that I was over-straining the servo motors with all the weight they were carrying. Because of this, the first design fell apart. 
+
+<p align="center">
+![Screenshot_20251101_054812_Video Player](https://github.com/user-attachments/assets/0b7f2e77-374d-4bb7-a13d-aed436847774)
+</p>
 
 
 
