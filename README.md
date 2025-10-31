@@ -66,11 +66,13 @@ After doing some research on Arduino arms around the internet, I realized I need
 </p>
 
 ## **Final Product**
-I was proud of how well the final product turned out. It could move in all the directions I wanted. The wires weren't too much of a mess, and every motor did it's job. With that, I was happy to conclude this project and experiment with a video recording it. 
+I was proud of how well the final product turned out. Every motor did it's job. With that, I was happy to conclude this project and experiment with a video recording it. 
 
 GIF: 
 
 ![Untitledvideo-MadewithClipchamp6-ezgif com-optimize (1)](https://github.com/user-attachments/assets/e719cd90-7a6a-4cab-b5c9-94f81c67dfd4)
+
+Full video: 
 
 
 
