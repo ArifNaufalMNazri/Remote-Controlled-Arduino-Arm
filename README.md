@@ -19,10 +19,8 @@ After struggling to program the motors, I discovered a piece of code that allowe
 
 It saves the previous value of the signal sent in `lastRead` if the signal wasn't `0x0`. The motors only respond to predetermined signals, and storing them in `lastRead` and rewriting it into `read`, the motors moved ragardless of whether I held or pressed the button. As a result, the motors could move like this: 
 
-<p align="center">
-![ServoVideo-ezgif com-optimize](https://github.com/user-attachments/assets/af075f91-e31c-4565-b002-0545eeef106e)
+![ServoVideo-ezgif com-optimize](https://github.com/user-attachments/assets/5d9939b2-9342-4f1b-bb66-66406d8f03c8)
 
-</p>
 
 
 
