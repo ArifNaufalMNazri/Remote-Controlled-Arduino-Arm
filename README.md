@@ -81,8 +81,6 @@ GIF:
 ## **Final Thoughts**
 This experience has made me learn to think more *critically* and built my *problem-solving skills* and *grit* when it comes to solving issues. This project took me a few weeks of building in between my exams. Seeing it move around made me feel like a real engineer, having to troubleshoot and fix problems constantly until it finally moved the way I wanted it to. It's an experience I won't forget, and something I'll be doing again soon.👍
 
-If you found this interesting, don't forget to star it as your favourites⭐
-
 
 
 
