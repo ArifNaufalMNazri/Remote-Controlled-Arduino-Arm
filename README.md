@@ -1,7 +1,7 @@
 # **Remote Controlled Arduino Arm**
 This is a 4-jointed robotic arm powered by an Arduino. Nothing is attached to the robotic wrist, as this project was intended as an experiment to learn about structuring robotic arms and programming motors to move independently using a remote control. 
 
-This project required me to look at how the motors received and responded to signals from a new angle, and it seeing it come to life was rewarding and satisfying
+This project required me to look at how the motors received and responded to signals from a new angle, and it seeing it come to life was rewarding and satisfying.😆
 
 <p align="center">
 <img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />
@@ -24,7 +24,7 @@ It saves the previous value of the signal sent in `lastRead` if the signal wasn'
 ### **Signals trouble shooting**
 It was a challenge to configure the remote controller signals to different motors.
 
- I settled on a few signals to control each individual motors clockwise and anticlockwise movements, the names of which beginning with *right* or *left*. 
+I settled on a few signals to control each individual motors clockwise and anticlockwise movements, the names of which beginning with *right* or *left*. 
 <p align="center">
 <img width="453" height="246" alt="image" src="https://github.com/user-attachments/assets/04f8f266-2780-4837-959b-110b5a3c3f4b" />
 </p>
@@ -66,7 +66,9 @@ After doing some research on Arduino arms around the internet, I realized I need
 </p>
 
 ### **Full code**
-Here's a link to the full code of the arm movement: ![Remote-Controlled-Arduino-Arm]()
+Here's a link to the full code of the arm movement: [💻Code Link](https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm/blob/main/arm.ino)
+
+You can also see the code in a file in the repo too!
 
 
 ## **Final Product**
@@ -77,7 +79,9 @@ GIF:
 ![Untitledvideo-MadewithClipchamp6-ezgif com-optimize (1)](https://github.com/user-attachments/assets/e719cd90-7a6a-4cab-b5c9-94f81c67dfd4)
 
 ## **Final Thoughts**
-This experience has made me learn to think more *critically* and built my *problem-solving skills* and *grit* when it comes to solving issues. This project took me a few weeks of building in between my exams. Seeing it move around made me feel like a real engineer, having to troubleshoot and fix problems constantly until it finally moved the way I wanted it to. It's an experience I won't forget, and something I'll be doing again soon.
+This experience has made me learn to think more *critically* and built my *problem-solving skills* and *grit* when it comes to solving issues. This project took me a few weeks of building in between my exams. Seeing it move around made me feel like a real engineer, having to troubleshoot and fix problems constantly until it finally moved the way I wanted it to. It's an experience I won't forget, and something I'll be doing again soon.👍
+
+If you found this interesting, don't forget to star it as your favourites⭐
 
 
 
