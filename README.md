@@ -65,6 +65,9 @@ After doing some research on Arduino arms around the internet, I realized I need
 <img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />
 </p>
 
+### **Full code**
+Here's a link to the full code of the arm movement: 
+
 ## **Final Product**
 I was proud of how well the final product turned out. Every motor did it's job. With that, I was happy to conclude this project and experiment with a video recording it. 
 
@@ -72,7 +75,8 @@ GIF:
 
 ![Untitledvideo-MadewithClipchamp6-ezgif com-optimize (1)](https://github.com/user-attachments/assets/e719cd90-7a6a-4cab-b5c9-94f81c67dfd4)
 
-Full video: 
+## **Final Thoughts**
+This experience has made me learn to think more *critically* and built my *problem-solving skills* and *grit* when it comes to solving issues. This project took me a few weeks of building in between my exams. Seeing it move around made me feel like a real engineer, having to troubleshoot and fix problems constantly until it finally moved the way I wanted it to. It's an experience I won't forget, and something I'll be doing again soon.
 
 
 
