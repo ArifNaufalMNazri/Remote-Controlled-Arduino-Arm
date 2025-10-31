@@ -1,5 +1,6 @@
 # **Remote Controlled Arduino Arm**
-This is a 4-jointed robotic arm powered by an Arduino, built using popsicle sticks with a weighted cardboard box as the base. Nothing is attached to the robotic wrist, as this project was intended as en experiment to learn about structuring robotic arms and programming motors to move independently using a remote control. 
+This is a 4-jointed robotic arm powered by an Arduino. Nothing is attached to the robotic wrist, as this project was intended as an experiment to learn about structuring robotic arms and programming motors to move independently using a remote control. 
+
 This project required me to look at how the motors received and responded to signals from a new angle, and it seeing it come to life was rewarding and satisfying
 
 <p align="center">
