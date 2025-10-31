@@ -59,6 +59,20 @@ The first design had been built on an unstable, hot-glued popsicle stick base th
 <img width="433" height="397" alt="image" src="https://github.com/user-attachments/assets/0b5b9153-5d64-4d24-825f-928a1ec9a4d9" />
 </p>
 
+After doing some research on Arduino arms around the internet, I realized I needed to place arm on a sturdier base, and also attach the servo motors directly on top of the stepper motor so tilting wouldn't become a problem, which became the final build whose screenshot began this README. 
+
+<p align="center">
+<img width="413" height="413" alt="image" src="https://github.com/user-attachments/assets/955e391d-15c2-4b4b-ab5b-bf5e189fe6c5" />
+</p>
+
+## **Final Product**
+I was proud of how well the final product turned out. It could move in all the directions I wanted. The wires weren't too much of a mess, and every motor did it's job. With that, I was happy to conclude this project and experiment with a video recording it. 
+
+GIF: 
+
+![Untitledvideo-MadewithClipchamp6-ezgif com-optimize (1)](https://github.com/user-attachments/assets/e719cd90-7a6a-4cab-b5c9-94f81c67dfd4)
+
+
 
 
 
