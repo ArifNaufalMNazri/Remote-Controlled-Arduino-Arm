@@ -21,6 +21,44 @@ It saves the previous value of the signal sent in `lastRead` if the signal wasn'
 
 ![ServoVideo-ezgif com-optimize](https://github.com/user-attachments/assets/5d9939b2-9342-4f1b-bb66-66406d8f03c8)
 
+### **Signals trouble shooting**
+It was a challenge to configure the remote controller signals to different motors.
+
+ I settled on a few signals to control each individual motors clockwise and anticlockwise movements, the names of which beginning with *right* or *left*. 
+<p align="center">
+<img width="413" height="196" alt="image" src="https://github.com/user-attachments/assets/04f8f266-2780-4837-959b-110b5a3c3f4b" />
+</p>
+
+### **Controlling motor movement**
+I created a function which would increment or decrement the angle of the *180-degreee rotational servo motor* based on their signals. In this way, I could reuse the same function for each of my servos. 
+
+<p align="center">
+<img width="620" height="329" alt="image" src="https://github.com/user-attachments/assets/cb593699-51a5-4038-82ce-7828b26d5668" />
+</p>
+
+For the *continuous rotation servo* at the wrist of the arm, the code was: 
+
+<p align="center">
+<img width="528" height="365" alt="image" src="https://github.com/user-attachments/assets/a344f177-31a7-401b-bd34-5af7334e0d6a" />
+</p>
+
+The code for the *stepper motor* was: 
+
+<p align="center">
+<img width="240" height="173" alt="image" src="https://github.com/user-attachments/assets/b5e988c4-de2a-4241-8c34-8f091c919c87" />
+</p>
+
+However, when I held the button down, the Arduino would continue to send that signal to the function, making the servo continue moving. To solve this, I added a limit to how many increments could happen before setting the the `lastRead` and `read` value to 0. I used an `int` named `plus` to limit the increments to **5**. 
+
+With this, I could finally control all the motors independently. Now, it was time for the structure of the build. 
+
+
+
+
+
+
+
+
 
 
 
