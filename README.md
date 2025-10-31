@@ -26,7 +26,7 @@ It was a challenge to configure the remote controller signals to different motor
 
  I settled on a few signals to control each individual motors clockwise and anticlockwise movements, the names of which beginning with *right* or *left*. 
 <p align="center">
-<img width="453" height="196" alt="image" src="https://github.com/user-attachments/assets/04f8f266-2780-4837-959b-110b5a3c3f4b" />
+<img width="503" height="196" alt="image" src="https://github.com/user-attachments/assets/04f8f266-2780-4837-959b-110b5a3c3f4b" />
 </p>
 
 ### **Controlling motor movement**
